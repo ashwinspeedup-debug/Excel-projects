@@ -1,6 +1,6 @@
 # 🚚 Delivery Route Optimisation for E-Commerce Company (Excel Project)
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/Dashboard.png)
 
 ---
 
