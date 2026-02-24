@@ -108,9 +108,4 @@ Constraints:
 
 ---
 
-## 📸 Adding Your Screenshot
-
-Place your screenshot inside an `images` folder in your repository.
-
-Example structure:
 
